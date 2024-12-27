@@ -21,6 +21,5 @@ Each folder may include:
 3. **No warranty** is provided; some methods may differ from how others solve the same rooms.
 
 ---
-
-**Happy hacking!**  
+ 
 Feel free to reach out with questions, suggestions, or just to say hello.
